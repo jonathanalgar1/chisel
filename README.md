@@ -1,4 +1,4 @@
-(https://snyk.io/test/github/{jonathanalgar}/{chisel})
+[![Known Vulnerabilities](https://snyk.io/test/github/{jonathanalgar}/{chisel}/badge.svg)]
 
 # Chisel
 
