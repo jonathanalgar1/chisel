@@ -21,3 +21,5 @@ require (
 	golang.org/x/sys v0.0.0-20220926163933-8cfa568d3c25 // indirect
 	golang.org/x/text v0.3.7 // indirect
 )
+
+replace github.com/golang/crypto v0.0.0 => github.com/jonathanalgar1/crypto v0.0.0
